@@ -20,6 +20,7 @@ sns.lineplot(data=df,
              style='region')
 plt.show()
 
+bar_kw['facecolor'] = (1, 1, 1, 0)
 
 fig, ax = plt.subplots()
 sns.barplot(data=df,

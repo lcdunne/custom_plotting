@@ -17,6 +17,14 @@ bar_kw = {
     "errwidth": 2
 }
 
+scatter_kw = {
+    "marker":"o",
+    "s":100,
+    "linewidth":1,
+    "facecolors": "none",
+    "edgecolors":"k"
+}
+
 palettes = {
     "redgrey": ["#de2d26", "#bdbdbd"],
     "greengrey": ["#31a354", "#bdbdbd"],

@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: custom-plotting-lcdunne
+Version: 0.0.1
+Summary: A small package for custom plots.
+Home-page: https://github.com/lcdunne/custom_plotting
+Author: Lewis Dunne
+Author-email: 
+License: UNKNOWN
+Description: # custom_plotting
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

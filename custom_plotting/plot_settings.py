@@ -18,14 +18,15 @@ bar_kw = {
 }
 
 scatter_kw = {
-    "marker":"o",
-    "s":100,
-    "linewidth":1,
+    "marker": "o",
+    "s": 100,
+    "linewidth": 1,
     "facecolors": "none",
-    "edgecolors":"k"
+    "edgecolors": "k"
 }
 
 palettes = {
+    "empty": [(1, 1, 1, 0)],
     "redgrey": ["#de2d26", "#bdbdbd"],
     "greengrey": ["#31a354", "#bdbdbd"],
     "bluegrey": ["#3182bd", "#bdbdbd"],
@@ -35,6 +36,8 @@ palettes = {
     "set99": ["#377eb8", "#e41a1c", "#4daf4a", "#984ea3", "#ff7f00", "#ffff33", "#a65628", "#f781bf", "#999999"],
     "set99b": ["#999999", "#377eb8", "#e41a1c", "#4daf4a", "#984ea3", "#ff7f00", "#ffff33", "#a65628", "#f781bf"]
 }
+
+# test
 
 palettes = {
     **palettes,

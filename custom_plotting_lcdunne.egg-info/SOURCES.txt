@@ -1,0 +1,6 @@
+README.md
+setup.py
+custom_plotting_lcdunne.egg-info/PKG-INFO
+custom_plotting_lcdunne.egg-info/SOURCES.txt
+custom_plotting_lcdunne.egg-info/dependency_links.txt
+custom_plotting_lcdunne.egg-info/top_level.txt
